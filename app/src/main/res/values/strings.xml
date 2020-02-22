@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab 4 Milestone 2</string>
+    <string name="background">Background</string>
+    <string name="hiker_s_watch">Hiker\'s Watch</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="address">Address:</string>
 </resources>
